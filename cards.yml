@@ -1,0 +1,9 @@
+config:
+  import:
+    - "cards-qa.yml"
+    - "cards-prod.yml"
+  profile:
+    active:
+      - "qa"
+  build:
+    version: "3.0"

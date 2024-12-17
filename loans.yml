@@ -1,0 +1,9 @@
+config:
+  import:
+    - "loans-qa.yml"
+    - "loans-prod.yml"
+  profile:
+    active:
+      - "qa"
+  build:
+    version: "3.0"

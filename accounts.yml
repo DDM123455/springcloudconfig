@@ -1,0 +1,10 @@
+
+  config:
+    import:
+      - "accounts-prod.yml"
+      - "accounts-qa.yml"
+    profile:
+      active:
+        - "qa"
+  build:
+    version: "3.0"
