@@ -1,3 +1,13 @@
 
 build:
   version: "1.1"
+
+
+accounts:
+  message: "Welcome to EazyBank accounts related PRO APIs "
+  contactDetails:
+    name: "Smitha Ray - PRO Lead"
+    email: "smitha@eazybank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
